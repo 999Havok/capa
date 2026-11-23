@@ -27,6 +27,7 @@
 - tests: use user leaf function 0x401517 in mimikatz calls-from fixtures for IDA 9.5 compatibility @mr-tz
 - ci: key setup-uv cache on pyproject.toml in idalib-tests @mr-tz
 - tests: compare decoded freeze documents in snapshot tests so zlib-ng platforms pass @zxan #3229
+- doc: update blog post links that now redirect away from the articles, add Android and capa Explorer Web posts @999Havok #2596
 
 ### Raw diffs
 - [capa v10.0.0...master](https://github.com/mandiant/capa/compare/v10.0.0...master)

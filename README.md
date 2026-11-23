@@ -304,12 +304,14 @@ You can run and view capa results in the Ghidra UI using [capa explorer for Ghid
 You can also run capa from the command line using the [Ghidra backend](https://github.com/mandiant/capa/tree/master/capa/ghidra).
 
 # blog posts
-- [Riding Dragons: capa Harnesses Ghidra](https://www.mandiant.com/resources/blog/capa-harnesses-ghidra)
-- [Dynamic capa: Exploring Executable Run-Time Behavior with the CAPE Sandbox](https://www.mandiant.com/resources/blog/dynamic-capa-executable-behavior-cape-sandbox)
-- [capa v4: casting a wider .NET](https://www.mandiant.com/resources/blog/capa-v4-casting-wider-net) (.NET support)
-- [ELFant in the Room – capa v3](https://www.mandiant.com/resources/elfant-in-the-room-capa-v3) (ELF support)
-- [capa 2.0: Better, Stronger, Faster](https://www.mandiant.com/resources/capa-2-better-stronger-faster)
-- [capa: Automatically Identify Malware Capabilities](https://www.mandiant.com/resources/capa-automatically-identify-malware-capabilities)
+- [Using capa Rules for Android Malware Detection](https://cloud.google.com/blog/topics/threat-intelligence/capa-rules-android-malware-detection) (Android ARM64 ELF support)
+- [capa Explorer Web: A Web-Based Tool for Program Capability Analysis](https://cloud.google.com/blog/topics/threat-intelligence/capa-explorer-web-program-capability-analysis)
+- [Riding Dragons: capa Harnesses Ghidra](https://cloud.google.com/blog/topics/threat-intelligence/capa-harnesses-ghidra)
+- [Dynamic capa: Exploring Executable Run-Time Behavior with the CAPE Sandbox](https://cloud.google.com/blog/topics/threat-intelligence/dynamic-capa-executable-behavior-cape-sandbox)
+- [capa v4: casting a wider .NET](https://cloud.google.com/blog/topics/threat-intelligence/capa-v4-casting-wider-net) (.NET support)
+- [ELFant in the Room – capa v3](https://cloud.google.com/blog/topics/threat-intelligence/elfant-in-the-room-capa-v3) (ELF support)
+- [capa 2.0: Better, Stronger, Faster](https://cloud.google.com/blog/topics/threat-intelligence/capa-2-better-stronger-faster)
+- [capa: Automatically Identify Malware Capabilities](https://cloud.google.com/blog/topics/threat-intelligence/capa-automatically-identify-malware-capabilities)
 
 # further information
 ## capa
